@@ -1,0 +1,477 @@
+{
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1719656261404,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon mk-readable-line mk-folder-lines mk-spaces-enabled mk-inline-context-enabled mk-flow-seamless",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/CanVas.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/ExecutionPlan.canvas",
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/RDD_SPARK.canvas",
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/SparkSessionCollection.canvas",
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/TransformAction.canvas",
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/Untitled.canvas",
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DataFrame1.excalidraw.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DataFrame2.excalidraw.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DrawChat.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/ExecutionPlan.excalidraw.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/SparkConfig.excalidraw.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/SPARKSQL.excalidraw.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/TransformAction.excalidraw.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/images.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613140948.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613151356.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613152541.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613160921.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613162030.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613162216.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613174955.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240615153209.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240615153937.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618070836.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618071010.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618072852.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618144915.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted Image 20240618151714_691.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618152039.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618152453.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618154633.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618155701.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618155733.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618170427.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618172352.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618190042.png",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/SPark DataSource and Sinks.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Spark RDDS API's.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Spark-StructureAPI_Framework.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/SparkSQL.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/spart5.pdf",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Untitled.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Data Frame.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark - Data preprocessing1.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark Transformation Actions.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark_ExecutionPlan.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark_log4jconfig.md",
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark_Session_Configuration.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/CanVas.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 127,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/CanVas/CanVas.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/ExecutionPlan.canvas": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 16070,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/CanVas/ExecutionPlan.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/RDD_SPARK.canvas": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 21435,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/CanVas/RDD_SPARK.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/SparkSessionCollection.canvas": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 5811,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/CanVas/SparkSessionCollection.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/TransformAction.canvas": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 5986,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/CanVas/TransformAction.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/CanVas/Untitled.canvas": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 449,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/CanVas/Untitled.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DataFrame1.excalidraw.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 264078,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DataFrame1.excalidraw.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DataFrame2.excalidraw.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 457368,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DataFrame2.excalidraw.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DrawChat.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 127,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/DrawChat.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/ExecutionPlan.excalidraw.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 96138,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/ExecutionPlan.excalidraw.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/SparkConfig.excalidraw.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 53975,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/SparkConfig.excalidraw.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/SPARKSQL.excalidraw.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 73447,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/SPARKSQL.excalidraw.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/TransformAction.excalidraw.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 29545,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/DrawChat/TransformAction.excalidraw.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/images.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 127,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/images.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613140948.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 200612,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613140948.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613151356.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 88239,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613151356.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613152541.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 216102,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613152541.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613160921.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 201789,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613160921.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613162030.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 126544,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613162030.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613162216.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 128127,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613162216.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613174955.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 221935,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240613174955.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240615153209.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 133858,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240615153209.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240615153937.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 241791,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240615153937.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618070836.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 74210,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618070836.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618071010.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 249425,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618071010.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618072852.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 118549,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618072852.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618144915.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 30921,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618144915.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted Image 20240618151714_691.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 423585,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted Image 20240618151714_691.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618152039.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 373955,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618152039.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618152453.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 122959,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618152453.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618154633.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 67725,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618154633.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618155701.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 145941,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618155701.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618155733.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 276833,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618155733.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618170427.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 159104,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618170427.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618172352.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 141757,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618172352.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618190042.png": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 30818,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/images/Pasted image 20240618190042.png",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/SPark DataSource and Sinks.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 428,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/SPark DataSource and Sinks.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Spark RDDS API's.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 627,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Spark RDDS API's.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Spark-StructureAPI_Framework.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 127,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Spark-StructureAPI_Framework.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/SparkSQL.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 627,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/SparkSQL.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/spart5.pdf": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 20743471,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/spart5.pdf",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Untitled.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 0,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark-StructureAPI_Framework/Untitled.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Data Frame.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 3884,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Data Frame.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 917,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark - Data preprocessing1.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 127,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark - Data preprocessing1.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark Transformation Actions.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 2232,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark Transformation Actions.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark_ExecutionPlan.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 238,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark_ExecutionPlan.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark_log4jconfig.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 2156,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark_log4jconfig.html",
+      "dependencies": []
+    },
+    "02 - DataEngineer/Spark - Data preprocessing1/Spark_Session_Configuration.md": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 8659,
+      "exportedPath": "02 - DataEngineer/Spark - Data preprocessing1/Spark_Session_Configuration.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719656261404,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
